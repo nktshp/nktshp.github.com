@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[nktshp]]></title>
+  <link href="http://nktshp.github.com/atom.xml" rel="self"/>
+  <link href="http://nktshp.github.com/"/>
+  <updated>2012-10-28T00:26:26+08:00</updated>
+  <id>http://nktshp.github.com/</id>
+  <author>
+    <name><![CDATA[nktshp]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
