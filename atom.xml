@@ -4,7 +4,7 @@
   <title><![CDATA[nktshp]]></title>
   <link href="http://nktshp.github.com/atom.xml" rel="self"/>
   <link href="http://nktshp.github.com/"/>
-  <updated>2012-10-28T01:42:32+08:00</updated>
+  <updated>2012-10-28T02:20:02+08:00</updated>
   <id>http://nktshp.github.com/</id>
   <author>
     <name><![CDATA[nktshp]]></name>
@@ -19,6 +19,8 @@
     <updated>2012-10-28T01:37:00+08:00</updated>
     <id>http://nktshp.github.com/blog/2012/10/28/another-hello</id>
     <content type="html"><![CDATA[<p>this is a test</p>
+
+<p><embed src="http://player.youku.com/player.php/sid/XNDY3NTMyNTQ4/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" allowFullscreen="true" type="application/x-shockwave-flash"></embed></p>
 ]]></content>
   </entry>
   
